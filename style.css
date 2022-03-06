@@ -11,7 +11,13 @@
 #box
 {
 	text-align: center;
-	background-color: grey;
+	background-color: gray;
+}
+
+#buttonbox
+{
+	text-align: center;
+	background-color: black;
 }
 
 #boxresto
@@ -39,6 +45,9 @@ body
 
 button
 {
-	color: red;
-	margin-left: 15px;
+	color: blue;
+	background-color: darkgray;
+	margin-left: 20 px;
+	height: 1000 px;
+	width: 250 px;
 }
