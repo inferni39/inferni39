@@ -1,8 +1,8 @@
 #margin
 {
 	width: 1000px;
-	height: 5000px;
-	margin-left: 500px;
+	margin: 0 auto;
+	text-align: center;
 	background-color: white;
 	border-style: groove;
 	border-width: 10px;
@@ -10,27 +10,30 @@
 
 #box
 {
+	text-align: center;
 	background-color: grey;
 }
 
 #boxresto
 {
+	text-align: center;
 	background-color: black;
 	color: white;
 }
 
 h1
 {
-	margin-left: 425px;
+	margin: 0 auto;
 }
 
 h3
 {
-	margin-left: 250px;
+	margin: 0 auto;
 }
 
 body
 {
+	text-align: center;
 	background-color: red;
 }
 
