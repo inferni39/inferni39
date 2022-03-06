@@ -34,7 +34,7 @@ h3
 body
 {
 	text-align: center;
-	background-color: red;
+	background-image: url('background.png');
 }
 
 button
